@@ -1,9 +1,11 @@
+Repositório somente para estudos!
+
 ## Tutorial: criar uma API Web com ASP.NET Core
 
 Path:
 `/ Docs / .NET / ASP.NET Core / Aplicativos API Web / Tutoriais / Criar uma API Web`
 
-Link: https://docs.microsoft.com/pt-br/aspnet/core/tutorials/first-web-api?view=aspnetcore-3.1
+Link: https://docs.microsoft.com/pt-br/aspnet/core/tutorials/first-web-api
 
 ## Adicionar um contexto de banco de dados
 
